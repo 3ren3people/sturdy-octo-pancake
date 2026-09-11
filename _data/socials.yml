@@ -1,0 +1,6 @@
+# 实验室联系方式。把下面的示例改成真实信息后，页脚和首页会显示对应图标。
+email: lab@example.com
+rss_icon: true
+# github_username: your-lab-github
+# scholar_userid: 你的 Google Scholar ID
+# wechat_qr: # 把微信二维码放到 assets/img/ 后填写文件名
